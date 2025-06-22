@@ -2,4 +2,4 @@
 
 <h1>Hi, I'm Ricardo! <br/><a>Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
