@@ -4,4 +4,4 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-<b>⚙️ Python:</b>
+- <b>⚙️ Python:</b>
