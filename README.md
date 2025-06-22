@@ -5,4 +5,4 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>⚙️ Python:</b>
-- [Automated Local Threat Detection]
+  - [Automated Local Threat Detection]
