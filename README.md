@@ -5,7 +5,8 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>🌐 Network Infrastructure:</b>
-
+  - [Secure Home Network Deployment - Linux](https://github.com)
+  - 
 - <b>⚙️ Python:</b>
   - [Automated Local Threat Detection](https://github.com)
   
