@@ -4,6 +4,8 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
+- <b>🌐 Network Infrastructure:</b>
+
 - <b>⚙️ Python:</b>
   - [Automated Local Threat Detection](https://github.com)
   
